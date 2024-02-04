@@ -1,13 +1,13 @@
 
 # Chirper
 An app built following Laravel Bootcamp. used as a reference app.
-## Routes
+## Route Table
 | Action | Route|
 |--------|--------|
-| GET |	/chirps	|	
-|POST |	/chirps	|	
-|PUT/PATCH |	/chirps/{chirp}|	
-
+| GET |	```/chirps```	|	
+| POST |	```/chirps```	|	
+| PUT/PATCH |	```/chirps/{chirp}``` |	
+| DELETE | ```/chirps/{chirp}``` |
 
 # Powere By:
 
